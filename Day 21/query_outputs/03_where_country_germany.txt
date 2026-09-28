@@ -1,0 +1,5 @@
+QUERY: SELECT * FROM Customers WHERE Country = 'Germany';
+
+ CustomerID            CustomerName Country     City
+          1     Alfreds Futterkiste Germany   Berlin
+          6 Blauer See Delikatessen Germany Mannheim

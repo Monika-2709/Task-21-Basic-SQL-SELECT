@@ -1,0 +1,9 @@
+QUERY: SELECT ProductName, Stock FROM Products WHERE Stock < 40 ORDER BY Stock ASC;
+
+  ProductName  Stock
+Aniseed Syrup     13
+        Chang     17
+        Ikura     20
+      Pavlova     29
+         Tofu     35
+         Chai     39

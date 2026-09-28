@@ -1,0 +1,13 @@
+QUERY: SELECT ProductName, Category, Price FROM Products ORDER BY Price DESC;
+
+                ProductName    Category  Price
+           Carnarvon Tigers     Seafood  62.50
+                      Ikura     Seafood  31.00
+Grandmas Boysenberry Spread  Condiments  25.00
+                       Tofu     Produce  23.25
+ Chef Anton Cajun Seasoning  Condiments  22.00
+                      Chang   Beverages  19.00
+                       Chai   Beverages  18.00
+                    Pavlova Confections  17.45
+              Aniseed Syrup  Condiments  10.00
+ Teatime Chocolate Biscuits Confections   9.20

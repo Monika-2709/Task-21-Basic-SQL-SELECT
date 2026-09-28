@@ -1,0 +1,13 @@
+QUERY: SELECT CustomerID, CustomerName, Country FROM Customers ORDER BY CustomerName ASC;
+
+ CustomerID             CustomerName Country
+          1      Alfreds Futterkiste Germany
+          2 Ana Trujillo Emparedados  Mexico
+          3  Antonio Moreno Taqueria  Mexico
+          4          Around the Horn      UK
+          5       Berglunds snabbkop  Sweden
+          6  Blauer See Delikatessen Germany
+          7                  Bon app  France
+          8   Bottom-Dollar Marketse  Canada
+          9    Consolidated Holdings      UK
+         10       Eastern Connection      UK

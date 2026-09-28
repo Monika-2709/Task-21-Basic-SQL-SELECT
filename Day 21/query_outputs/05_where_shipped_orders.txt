@@ -1,0 +1,8 @@
+QUERY: SELECT OrderID, OrderDate, Amount FROM Orders WHERE Status = 'Shipped';
+
+ OrderID  OrderDate  Amount
+     101 2026-09-01     450
+     103 2026-09-03     780
+     105 2026-09-05     910
+     108 2026-09-08     625
+     110 2026-09-10    1120

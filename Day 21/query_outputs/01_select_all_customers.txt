@@ -1,0 +1,13 @@
+QUERY: SELECT * FROM Customers;
+
+ CustomerID             CustomerName Country        City
+          1      Alfreds Futterkiste Germany      Berlin
+          2 Ana Trujillo Emparedados  Mexico Mexico City
+          3  Antonio Moreno Taqueria  Mexico Mexico City
+          4          Around the Horn      UK      London
+          5       Berglunds snabbkop  Sweden       Lulea
+          6  Blauer See Delikatessen Germany    Mannheim
+          7                  Bon app  France   Marseille
+          8   Bottom-Dollar Marketse  Canada   Tsawassen
+          9    Consolidated Holdings      UK      London
+         10       Eastern Connection      UK      London

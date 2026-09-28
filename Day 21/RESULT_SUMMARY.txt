@@ -1,0 +1,12 @@
+Task 21 Query Result Summary
+
+01_select_all_customers: 10 rows
+02_select_customer_columns: 10 rows
+03_where_country_germany: 2 rows
+04_where_product_price: 5 rows
+05_where_shipped_orders: 5 rows
+06_order_products_price_asc: 10 rows
+07_order_products_price_desc: 10 rows
+08_order_customers_name: 10 rows
+09_where_high_value_orders: 4 rows
+10_where_stock_order: 6 rows

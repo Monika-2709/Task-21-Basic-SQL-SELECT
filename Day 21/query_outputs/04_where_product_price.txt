@@ -1,0 +1,8 @@
+QUERY: SELECT ProductName, Price FROM Products WHERE Price > 20;
+
+                ProductName  Price
+ Chef Anton Cajun Seasoning  22.00
+Grandmas Boysenberry Spread  25.00
+                      Ikura  31.00
+                       Tofu  23.25
+           Carnarvon Tigers  62.50
